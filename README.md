@@ -1,4 +1,4 @@
-# Report 3
+# Star Classification using different techniques
 ## Unsupervised and Supervised Models
 
 In this report we need to classify the stars using the features given in a csv file. 
